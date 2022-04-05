@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "65d4a6bf1f08b10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "967bc6839297a216",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/GWIS-WLAN.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b94794713f8de91e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e86736025b58de84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149f72ebf4b1f376",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "90b4022f0fb5af2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a7396e06da510b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b34e78a471cae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15fc7d790ac82178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/GWIS-WLAN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "967bc6839297a216",
+  "lastOpenFiles": [
+    "_notes/GWIS-WLAN.md",
+    "_notes/How to use the special features.md"
+  ]
+}

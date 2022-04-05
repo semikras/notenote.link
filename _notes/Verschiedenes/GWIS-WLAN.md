@@ -1,9 +1,7 @@
 ---
 title: GWIS-WLAN
 season: summer
-tags: Theme
-toc: true
-comments: true
+tags: wlan
 ---
 
 Um sich anzumelden, muss man FOKUS Benutzernamen mit @uke.de erweitern

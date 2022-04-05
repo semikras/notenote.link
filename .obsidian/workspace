@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/GWIS-WLAN.md",
-            "mode": "source",
+            "file": "_site/README.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/GWIS-WLAN.md",
+                "file": "_site/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,15 @@
   },
   "active": "967bc6839297a216",
   "lastOpenFiles": [
+    "_site/README.md",
+    "tags.md",
+    "README.md",
+    "about.md",
+    "dates.md",
+    "index.md",
     "_notes/GWIS-WLAN.md",
-    "_notes/How to use the special features.md"
+    "_notes/Obsidian integration.md",
+    "_notes/How-to-setup-this-site.md",
+    "_notes/how-markdown-is-rendered.md"
   ]
 }
